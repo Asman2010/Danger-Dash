@@ -1,6 +1,6 @@
 # Car Game using Pygame
 
-Welcome to the Car Game, a simple Python project using the Pygame library that simulates a car dodging traffic on a road.
+Welcome to the Danger Dash, a simple Python project using the Pygame library that simulates a car dodging traffic on a road.
 
 # Danger-Dash
 
