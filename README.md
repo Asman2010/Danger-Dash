@@ -37,10 +37,6 @@ This game is designed to allow the player's car to navigate through traffic on a
 
 ![image](https://github.com/Asman2010/Danger-Dash/assets/142419243/2d628c49-2dda-4159-bf8f-95b5cf1f57b3)
 
-## Contributors
-
-- Add your name here if you contribute to this project!
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
