@@ -10,10 +10,11 @@ This is a re-creation of a car game from the phones in early 2k's
 
 This game is designed to allow the player's car to navigate through traffic on a multi-lane road. The player's objective is to avoid collisions with other vehicles while advancing and gaining points.
 
-## Prerequisites
+## Requirements
 
 - Python 3 installed
 - Pygame library (`pip install pygame`)
+- Create A environment(if needed only when you face some errors)
 
 ## How to Run
 
